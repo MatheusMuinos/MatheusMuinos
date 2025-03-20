@@ -1,4 +1,4 @@
-## Hi, I'm Matheus Muiños
+## 👋 Hi, I'm Matheus Muiños 👋
 
 I am a Computer Engineering student at SENAI CIMATEC, with an academic score of 8.14. During the year 2024, I was a scholarship holder in the academic monitoring program, acting as a monitor for the Physics 1 subject. Currently, in the year 2025, I was selected to act as a monitor for the Calculus 4 subject, for the electrical engineering, control and automation, computing and chemistry courses.
 

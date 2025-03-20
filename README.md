@@ -22,7 +22,7 @@ I am a Computer Engineering student at SENAI CIMATEC, with an academic score of 
 
 ## 🎓 Education
 
-### Computer Engineering Student*
+### Computer Engineering Student 💻
 **Universidade SENAI CIMATEC**
 
 ## 📫 Let's Connect!

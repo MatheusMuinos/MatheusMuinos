@@ -27,7 +27,7 @@ I am a Computer Engineering student at SENAI CIMATEC, with an academic score of 
 
 ## 📫 Let's Connect!
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-sarno-mui%C3%B1os-380607283/)
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=react&logoColor=white&color=blue)](https://ariel.artadevs.tech/](https://portifolio-v-matheus-muinos-dev.vercel.app/))
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=react&logoColor=white&color=blue)](https://portifolio-v-matheus-muinos-dev.vercel.app/)
 ![](https://komarev.com/ghpvc/?username=MAtheusMuinos&style=for-the-badge)
 
 <!--

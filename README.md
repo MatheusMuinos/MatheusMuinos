@@ -7,7 +7,7 @@ I am a Computer Engineering student at SENAI CIMATEC, with an academic score of 
 ### Web Engineering (Back-end)
 - **Programming Language**: C, C++, Java (Springboot), JavaScript, Node.js, React, Python (FastAPI, Flask);
 - **Relational DBMS**: OracleSQL, MySQL, PostgreSQL;
-- ** No Relational DBMS**: MongoDB;
+- **No Relational DBMS**: MongoDB;
 - **Version Control**: Git, GitHub, GitLab;
 - **Google Cloud**
 

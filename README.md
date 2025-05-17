@@ -5,7 +5,7 @@ I am a Computer Engineering student at SENAI CIMATEC, with an academic score of 
 ## 💻 Technologies I Work With
 
 ### Web Engineering (Back-end)
-- **Programming Language**: C, C++, Java, JavaScript, TypeScript (Springboot), Node.js, React, Python (FastAPI, Flask);
+- **Programming Language**: C, C++, Java (Springboot), JavaScript, TypeScript, Node.js, React, Python (FastAPI, Flask);
 - **Relational DBMS**: OracleSQL, MySQL, PostgreSQL;
 - **Version Control**: Git, GitHub, GitLab;
 - **Google Cloud**
